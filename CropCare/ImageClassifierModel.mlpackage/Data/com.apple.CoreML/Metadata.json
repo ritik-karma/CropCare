@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "14.0.0",
+    "com.apple.createml.app.tag" : "115.3",
+    "com.apple.coreml.model.preview.type" : "imageClassifier",
+    "com.apple.createml.app.version" : "5.0 Beta"
+  },
+  "MLModelAuthorKey" : "Ritik Karma",
+  "MLModelLicenseKey" : "--"
+}

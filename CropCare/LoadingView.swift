@@ -1,9 +1,4 @@
-//
-//  PlantPalApp.swift
-//  PlantPal
-//
-//  Created by Yash Kumar on 2023-08-01.
-//
+
 
 import SwiftUI
 

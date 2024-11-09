@@ -1,9 +1,4 @@
-//
-//  ResultView.swift
-//  PlantPal
-//
-//  Created by Yash Kumar on 2023-08-11.
-//
+
 
 import SwiftUI
 
