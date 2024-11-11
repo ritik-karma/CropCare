@@ -30,8 +30,10 @@ struct ContentView: View {
                         .frame(width: 240.0, height: 240.0)
                         .clipShape(RoundedRectangle(cornerRadius: 52))
 
-                    Text("CropCare").font(.title)
-                    Text("by Ritik Karma").font(.caption)
+                    Text("CropCare")
+                        .font(.title)
+                        .bold()
+                    Text("by Ritik Karma").font(.title3)
 
 
                     Spacer()
